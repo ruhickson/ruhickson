@@ -13,7 +13,7 @@
     <div class="container mx-auto px-5">
         <header class="flex justify-between py-12 items-center">
             <div>
-                <a href="/"><img src="/images/logo-bookmark.svg" alt="Site Logo"></a>
+                <li class="uppercase hover:text-theme-secondary transition duration-200"><a href="#features" v-smooth-scroll>Ru Hickson</a></li>
             </div>
             
             <nav class="flex justify-end flex-col md:flex-row">

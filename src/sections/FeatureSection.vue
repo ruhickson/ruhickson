@@ -2,6 +2,7 @@
 
 import features from '../data/features.js';
 import { ref } from 'vue';
+import UrlButton from '../components/UrlButton.vue';
 
 let isOpen = ref(1);
 
@@ -12,7 +13,7 @@ let isOpen = ref(1);
     <div id="features" class="container mx-auto px-5">
         <section class="py-16">
             <div class="w-4/5 md:w-3/5 mx-auto">
-                <h2 class="text-3xl md:text-4xl font-semibold font-theme-heading text-center">Features</h2>
+                <h2 class="text-3xl md:text-4xl font-semibold font-theme-heading text-center">Skills</h2>
                 <p class="text-theme-grayish-blue text-center mt-7 font-theme-content text-lg">Our aim is to make it quick and easy for you to access your favourite websites. Your bookmarks sync between your devices so you can access them on the go.</p>
             </div>
 
@@ -36,7 +37,7 @@ let isOpen = ref(1);
                             <h3 class="font-theme-heading text-2xl md:text-3xl font-medium text-center lg:text-left">{{ feature.details.title }}</h3>
                             <p class="mt-7 font-theme-content text-lg text-theme-grayish-blue text-center lg:text-left">{{ feature.details.description }}</p>
                             <div class="flex justify-center lg:justify-start mt-7">
-                                <LinkButton btn-type="primary" :link="feature.details.link">More Info</LinkButton>
+                                <UrlButton :url="feature.details.link">More Info</UrlButton>
                             </div>
                         </div>
                     </div>
