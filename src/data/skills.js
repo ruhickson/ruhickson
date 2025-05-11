@@ -1,9 +1,9 @@
-const features = [
+const skills = [
     {
         id: 1,
         name: "Data Pipelines",
         details: {
-            imageUrl: "images/rpipeline.jpg",
+            imageUrl: "/public/images/rpipeline.jpg",
             title: "Build Robust Data Pipelines",
             description: "I design and implement scalable data pipelines using tools like SQL, Python, Spark, Pig, Hive, Teradata, AWS, Azure, GCP, and Heroku. Integrate with platforms such as Visual Studio and leverage automation with Powershell.",
             link: "https://github.com/ruhickson/gitball",
@@ -13,7 +13,7 @@ const features = [
         id: 2,
         name: "Data Analysis",
         details: {
-            imageUrl: "images/downsell.png",
+            imageUrl: "/public/images/downsell.png",
             title: "Advanced Data Analysis & Insights",
             description: "I perform deep data analysis and statistical modeling using SAS, R, Python, SQL, Matlab, and Java. Manage projects and teams with JIRA, Atlassian, Confluence, and MS Office. Demonstrate leadership and public speaking skills in delivering actionable insights.",
             link: "https://downsell.netlify.app/",
@@ -31,4 +31,4 @@ const features = [
     },
 ];
 
-export default features;
+export default skills;

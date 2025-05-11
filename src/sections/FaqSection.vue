@@ -7,11 +7,17 @@ let isOpen = ref(1);
 
 <template>
     <!-- Questions Section Start -->
-    <div id="faq" class="container mx-auto px-5 md:w-4/5">
+    <div id="about" class="container mx-auto px-5 md:w-4/5">
         <section class="py-16 pt-18">
             <div class="w-4/5 md:w-3/5 mx-auto">
-                <h2 class="text-3xl md:text-4xl font-theme-heading font-medium text-center">Frequently Asked Questions</h2>
-                <p class="text-theme-grayish-blue text-center mt-7 font-theme-content text-lg">Here are some of out FAQs. If you have any other quesitons you'd like answered please feel free to email us.</p>
+                <h2 class="text-3xl md:text-4xl font-theme-heading font-medium text-center">About Me</h2>
+                <p class="text-theme-grayish-blue text-center mt-7 font-theme-content text-lg">I am a devoted follower of most sports, especially soccer (Liverpool) and 
+                    American football (Eagles). I am an avid reader of science fiction and 
+                    non-fiction business books.</p>
+                <p class="text-theme-grayish-blue text-center mt-7 font-theme-content text-lg">My biggest loves are travel, playing guitar, and 
+                    video gaming. I like to foster dogs in need of adoption and regularly donate to 
+                    both human and animal charities. I am a podcast fanatic, my favourites being 
+                    anything from The Ringer, Writing Excuses, and Triple-Click.</p>
             </div>
 
             <div class="mt-10 w-full lg:w-3/5 mx-auto">
