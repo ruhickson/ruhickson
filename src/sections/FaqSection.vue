@@ -31,7 +31,6 @@ let isOpen = ref(1);
                     </template>
                 </ul>
                 <div class="flex justify-center mt-10">
-                    <LinkButton btn-type="primary" link="#" class="text-sm">More FAQs</LinkButton>
                 </div>
             </div>
         </section>

@@ -4,14 +4,14 @@ const projects = [
         icon: "/public/images/ds.png",
         title: "Downsell",
         subTitle: "Full-stack Money Management App",
-        link: "#",
+        link: "https://downsell.netlify.app/",
     },
     {
         id: 2,
         icon: "/public/images/gitball.png",
         title: "Gitball",
         subTitle: "Pipeline for Alternative Fantasy Football App",
-        link: "#",
+        link: "https://gitball.netlify.app/",
     },
     {
         id: 3,

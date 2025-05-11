@@ -13,7 +13,12 @@
     <div class="container mx-auto px-5">
         <header class="flex justify-between py-12 items-center">
             <div>
-                <li class="uppercase hover:text-theme-secondary transition duration-200"><a href="#features" v-smooth-scroll>Ru Hickson</a></li>
+                <a
+                    href="/"
+                    class="uppercase px-4 py-2 rounded-lg font-bold bg-blue-600 text-white hover:bg-blue-700 transition"
+                >
+                    Ru Hickson
+                </a>
             </div>
             
             <nav class="flex justify-end flex-col md:flex-row">
@@ -26,11 +31,16 @@
 
                 <!-- Desktop Menu -->
                 <ul class="space-x-10 font-theme-heading font-medium items-center hidden md:flex  flex-col space-y-7 md:space-y-0 md:flex-row">
-                    <li class="uppercase hover:text-theme-secondary transition duration-200"><a href="#features" v-smooth-scroll>Portfolio</a></li>
+                    <li class="uppercase hover:text-theme-secondary transition duration-200"><a href="#skills" v-smooth-scroll>Skills</a></li>
                     <li class="uppercase hover:text-theme-secondary transition duration-200"><a href="#projects" v-smooth-scroll>Projects</a></li>
                     <li class="uppercase hover:text-theme-secondary transition duration-200"><a href="#about" v-smooth-scroll>About</a></li>
                     <li class="uppercase bg-theme-secondary px-6 py-2 text-white rounded shadow-md hover:bg-white border-2 border-transparent hover:border-theme-secondary hover:text-theme-secondary cursor-pointer transition duration-200">
-                        <a href="#download-section" v-smooth-scroll>Download CV</a>
+                        <a  href="https://github.com/ruhickson/ruhickson/blob/main/Ru%20Hickson%20CV%20-%20May%202025.pdf"
+                            target="_blank"
+                            rel="noopener"
+                            class="your-button-classes">
+                                Download CV
+                            </a>
                     </li>
                 </ul>
             </nav>
