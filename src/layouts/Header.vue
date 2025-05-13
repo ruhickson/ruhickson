@@ -34,6 +34,14 @@
                     <li class="uppercase hover:text-theme-secondary transition duration-200"><a href="#skills" v-smooth-scroll>Skills</a></li>
                     <li class="uppercase hover:text-theme-secondary transition duration-200"><a href="#projects" v-smooth-scroll>Projects</a></li>
                     <li class="uppercase hover:text-theme-secondary transition duration-200"><a href="#about" v-smooth-scroll>About</a></li>
+                    <li class="uppercase hover:text-theme-secondary transition duration-200">
+                        <button
+                            @click="$emit('open-qualifications')"
+                            class="px-6 py-2 rounded shadow-md border-2 border-blue-600 text-blue-600 bg-white font-bold hover:bg-blue-600 hover:text-white transition duration-200"
+                        >
+                            Qualifications
+                        </button>
+                    </li>
                     <li class="uppercase bg-theme-secondary px-6 py-2 text-white rounded shadow-md hover:bg-white border-2 border-transparent hover:border-theme-secondary hover:text-theme-secondary cursor-pointer transition duration-200">
                         <a  href="https://github.com/ruhickson/ruhickson/blob/main/Ru%20Hickson%20CV%20-%20May%202025.pdf"
                             target="_blank"

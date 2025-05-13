@@ -19,7 +19,7 @@ are in video games, cryptocurrency, and  artificial intelligence.</p>
             </div>
             <div class="relative order-1 lg:order-none mb-20 lg:mt-0 lg:mb-0 lg:-mr-10">
                 <img
-                    src="/public/images/ru.png"
+                    src="/images/ru.png"
                     alt="Analytics dashboard"
                     class="w-48 h-64 rounded-full shadow-lg mb-6 border-4 border-white"
                 />
