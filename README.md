@@ -15,7 +15,7 @@ I'm a passionate developer focused on creating innovative solutions and explorin
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)](https://github.com/ruhickson/gitball-app/actions)
 
-![Gitball Screenshot](https://raw.githubusercontent.com/ruhickson/ruhickson/main/gitball/gitball.png)
+![Gitball Screenshot](https://raw.githubusercontent.com/ruhickson/ruhickson/main/gitball-app/gitball.png)
 
 A modern fantasy football application that brings the excitement of fantasy sports to life with cutting-edge technology.
 
@@ -89,7 +89,7 @@ A secure cryptocurrency private key storage solution with enterprise-grade secur
 [![Heroku](https://img.shields.io/badge/Heroku-Platform-430098)](https://heroku.com)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![Wordle Solver Screenshot](https://raw.githubusercontent.com/ruhickson/ruhickson/main/wordle-solver/wordle-solver.png)
+![Wordle Solver Screenshot](https://raw.githubusercontent.com/ruhickson/ruhickson/main/wordle-solver/wordle-solver.jpg)
 
 An intelligent Wordle assistant that continuously evolves to find the optimal starting word through data analysis.
 
