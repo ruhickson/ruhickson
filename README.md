@@ -14,6 +14,7 @@ I'm a passionate developer focused on creating innovative solutions and explorin
 [![Vue.js](https://img.shields.io/badge/Vue.js-3.x-4FC08D)](https://vuejs.org)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)](https://github.com/ruhickson/gitball-app/actions)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://gitball.netlify.app)
 
 ![Gitball Screenshot](https://raw.githubusercontent.com/ruhickson/ruhickson/main/gitball-app/gitball.png)
 
@@ -39,6 +40,7 @@ A modern fantasy football application that brings the excitement of fantasy spor
 [![React](https://img.shields.io/badge/React-18.x-61DAFB)](https://reactjs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6)](https://www.typescriptlang.org)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://downsell.netlify.app)
 
 ![Downsell Screenshot](https://raw.githubusercontent.com/ruhickson/ruhickson/main/downsell/downsell.png)
 
@@ -63,6 +65,7 @@ An intelligent financial analysis tool that helps users optimize their spending 
 [![Azure](https://img.shields.io/badge/Azure-Cloud-blue)](https://azure.microsoft.com)
 [![GCP](https://img.shields.io/badge/GCP-Cloud-red)](https://cloud.google.com)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://heartplug.netlify.app)
 
 ![Heartplug Screenshot](https://raw.githubusercontent.com/ruhickson/ruhickson/main/heartplug/heartplug.png)
 
@@ -106,6 +109,7 @@ An intelligent Wordle assistant that continuously evolves to find the optimal st
 ### [Arkvision](https://github.com/ruhickson/arkvision) - Visual Acuity Measurement Tool
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6)](https://www.typescriptlang.org)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://arkvision.netlify.app)
 
 ![Arkvision Screenshot](https://raw.githubusercontent.com/ruhickson/ruhickson/main/arkvision/arkvision.png)
 
@@ -119,6 +123,63 @@ An innovative tool for visualizing and measuring eyesight and visual acuity with
 
 **Tech Stack:**
 - TypeScript
+
+## 💻 Skills
+
+### Programming Languages
+- **Python** - Data Analysis, Machine Learning, Web Development
+- **R** - Statistical Analysis, Data Visualization
+- **TypeScript/JavaScript** - Frontend Development, Full Stack Applications
+- **SQL** - Database Design, Query Optimization
+- **Vue.js/React** - Modern Frontend Development
+
+### Databases & Data Management
+- **SQL Databases**
+  - MySQL Server
+  - PostgreSQL
+  - Database Administration
+  - Query Optimization
+- **NoSQL Databases**
+  - MongoDB
+  - Firebase
+  - Redis
+- **Data Warehousing**
+  - ETL Processes
+  - Data Modeling
+  - Data Architecture
+
+### Cloud & DevOps
+- **Cloud Platforms**
+  - AWS
+  - Azure
+  - Google Cloud Platform (GCP)
+- **DevOps Tools**
+  - Docker
+  - CI/CD
+  - Git
+  - Heroku
+  - Netlify
+
+### Data Analysis & Visualization
+- **Business Intelligence**
+  - PowerBI
+  - Tableau
+  - Data Visualization
+- **Statistical Analysis**
+  - SAS
+  - Statistical Modeling
+  - Predictive Analytics
+- **Blockchain**
+  - Smart Contracts
+  - Cryptocurrency Systems
+  - Blockchain Architecture
+
+### Soft Skills
+- Problem Solving
+- Project Management
+- Technical Documentation
+- Team Collaboration
+- Agile Methodologies
 
 ## 🛠️ Tech Stack
 
