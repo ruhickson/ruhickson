@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/ruhickson)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/ruhickson)
-[![Bluesky](https://img.shields.io/badge/Bluesky-Follow-blue)](https://bsky.app/profile/ruh)
+[![Bluesky](https://img.shields.io/badge/Bluesky-Follow-blue)](https://bsky.app/profile/ruh.bsky.social)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:ruhickson@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://ruhickson.com)
 
@@ -15,7 +15,7 @@ I'm a passionate developer focused on creating innovative solutions and explorin
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)](https://github.com/ruhickson/gitball-app/actions)
 
-![Gitball Screenshot](https://raw.githubusercontent.com/ruhickson/gitball-app/main/screenshots/gitball.png)
+![Gitball Screenshot](https://raw.githubusercontent.com/ruhickson/ruhickson/main/gitball/gitball.png)
 
 A modern fantasy football application that brings the excitement of fantasy sports to life with cutting-edge technology.
 
@@ -40,7 +40,7 @@ A modern fantasy football application that brings the excitement of fantasy spor
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6)](https://www.typescriptlang.org)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![Downsell Screenshot](https://raw.githubusercontent.com/ruhickson/downsell/main/screenshots/downsell.png)
+![Downsell Screenshot](https://raw.githubusercontent.com/ruhickson/ruhickson/main/downsell/downsell.png)
 
 An intelligent financial analysis tool that helps users optimize their spending and improve financial health through AI-powered insights.
 
@@ -64,7 +64,7 @@ An intelligent financial analysis tool that helps users optimize their spending 
 [![GCP](https://img.shields.io/badge/GCP-Cloud-red)](https://cloud.google.com)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![Heartplug Screenshot](https://raw.githubusercontent.com/ruhickson/heartplug/main/screenshots/heartplug.png)
+![Heartplug Screenshot](https://raw.githubusercontent.com/ruhickson/ruhickson/main/heartplug/heartplug.png)
 
 A secure cryptocurrency private key storage solution with enterprise-grade security features.
 
@@ -89,7 +89,7 @@ A secure cryptocurrency private key storage solution with enterprise-grade secur
 [![Heroku](https://img.shields.io/badge/Heroku-Platform-430098)](https://heroku.com)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![Wordle Solver Screenshot](https://raw.githubusercontent.com/ruhickson/wordle-solver/main/screenshots/wordle-solver.png)
+![Wordle Solver Screenshot](https://raw.githubusercontent.com/ruhickson/ruhickson/main/wordle-solver/wordle-solver.png)
 
 An intelligent Wordle assistant that continuously evolves to find the optimal starting word through data analysis.
 
@@ -107,7 +107,7 @@ An intelligent Wordle assistant that continuously evolves to find the optimal st
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6)](https://www.typescriptlang.org)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![Arkvision Screenshot](https://raw.githubusercontent.com/ruhickson/arkvision/main/screenshots/arkvision.png)
+![Arkvision Screenshot](https://raw.githubusercontent.com/ruhickson/ruhickson/main/arkvision/arkvision.png)
 
 An innovative tool for visualizing and measuring eyesight and visual acuity with precise scaling controls.
 
@@ -134,8 +134,7 @@ An innovative tool for visualizing and measuring eyesight and visual acuity with
 Feel free to reach out to me through:
 - [LinkedIn](https://linkedin.com/in/ruhickson)
 - [Email](mailto:ruhickson@gmail.com)
-- [Twitter](https://twitter.com/ruhickson)
-- [Bluesky](https://bsky.app/profile/ruh)
+- [Bluesky](https://bsky.app/profile/ruh.bsky.social)
 - [Portfolio](https://ruhickson.com)
 
 ## 📝 License
